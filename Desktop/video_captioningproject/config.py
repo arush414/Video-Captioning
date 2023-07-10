@@ -1,5 +1,6 @@
-import time
+
 import os
+import time
 class MSVDConfig:
     model="MSVD_InceptionV4"
     size=1536
